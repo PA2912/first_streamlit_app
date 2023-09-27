@@ -7,7 +7,7 @@ import json
 # Define your Azure Cognitive Search settings
 service_name = 'fifpadicognitiveservices'
 index_name = 'mydatadeepika'
-admin_key = 'HVykM7dKlxvBIDxcAFRz0WJuMQ9EvSyb2sETsQ6BXqAzSeAX0rMr'
+admin_key = 'jhkjhkjlkj'
 endpoint = f"https://{service_name}.search.windows.net/"
 credential = AzureKeyCredential(admin_key)
 
